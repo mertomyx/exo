@@ -1,0 +1,24 @@
+{
+    "name": "Aquarooms",
+    "short_name": "Aquarooms",
+    "description": "Aquarooms",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "display_override": ["fullscreen", "minimal-ui"],
+    "background_color": "#f5f6fa",
+    "theme_color": "#002631",
+    "version": "1.0",
+    "icons": [
+        {
+            "src": "/images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
